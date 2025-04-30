@@ -38,8 +38,7 @@ st.markdown("""
 if menu == "🏠 Beranda":
     st.subheader("Selamat Datang di Aplikasi Analisis Soal!")
     st.markdown("""
-        Selamat datang di **Aplikasi Analisis Soal**! Aplikasi ini dirancang untuk membantu Anda menganalisis hasil ujian atau kuis berdasarkan jenis soal yang diberikan. 
-        Berikut adalah beberapa fitur yang dapat Anda gunakan:
+        Selamat datang di **Aplikasi Analisis Soal**! Aplikasi ini dirancang untuk membantu Anda menganalisis hasil ujian atau kuis berdasarkan jenis soal yang diberikan.
         
         Aplikasi ini membantu untuk mendapatkan insight yang lebih baik mengenai performa siswa dalam ujian. Silakan unggah file jawaban dan mulailah analisis!
     """)
