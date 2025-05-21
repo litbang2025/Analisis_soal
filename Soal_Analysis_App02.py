@@ -369,7 +369,7 @@ elif menu == "ℹ️ Tentang":
     st.markdown("""
         Aplikasi ini bertujuan membantu guru dan pendidik dalam menganalisis kualitas soal ujian secara otomatis dan interaktif.
 
-        **Dikembangkan oleh**: [Abu Aisy]  
+        **Dibuat oleh**: Team Litbang  
         **Teknologi**: Python, Streamlit, Plotly  
         **Versi**: 1.1
     """)
